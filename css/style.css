@@ -41,6 +41,7 @@ body{
     padding: 1.7rem 2rem;
     border-radius: 5px;
     box-shadow: 2px 8px 0.9rem hsl(234, 91%, 91%);
+    background-color: white;
 }
 
 .card-title{
